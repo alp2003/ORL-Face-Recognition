@@ -2,4 +2,4 @@
  #
  ORL-Face-Recognition
 
-![Face Recognition Poster Image](ORL-Face-Recognition/MachinLearning_PosterPicture.png)
+![Face Recognition Poster Image](https://github.com/alp2003/ORL-Face-Recognition/blob/master/MachinLearning_PosterPicture.png)
